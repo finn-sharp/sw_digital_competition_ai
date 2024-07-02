@@ -44,7 +44,7 @@
 
 |김재현|서대성|장정우|이준연|
 |:--:|:--:|:--:|:--:|
-|![재현](https://github.com/boostcampaitech6/level2-klue-nlp-06/assets/82081872/fa007f29-007b-42c0-bb1a-f95176ad7d93)|![대성](http://www.naver.com)|![정우](http://www.naver.com)|![준연](http://www.naver.com)|
+|![재현](http://www.naver.com)|![대성](http://www.naver.com)|![정우](http://www.naver.com)|![준연](http://www.naver.com)|
 |[Github](https://github.com/finn-sharp)|[Github](http://www.naver.com)|[Github](http://www.naver.com)|[Github](http://www.naver.com)|
 |[Mail](penguin-klg@jnu.ac.kr)|[Mail](xxxx@gmail.com)|[Mail](xxxx@gmail.com)|[Mail](xxxx@gmail.com)|
 
